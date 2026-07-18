@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Left Leaf -->
+  <path d="M32 6C18 6 12 18 12 32h20V6z" fill="#1FAD9F" />
+  <!-- Right Leaf -->
+  <path d="M32 6c14 0 20 12 20 26H32V6z" fill="#22A06B" />
+  <!-- Bowl Base -->
+  <path d="M6 32c0 15 11 26 26 26s26-11 26-26H6z" fill="#FF6F5E" />
+  <!-- Rim -->
+  <path d="M4 32h56" stroke="#2B2320" stroke-width="3" stroke-linecap="round" />
+  <!-- Highlights/Steam -->
+  <path d="M28 20c-1-3-3-4-3-4m8 4c1-3 3-4 3-4" stroke="#FFF8F1" stroke-width="2" stroke-linecap="round" />
+</svg>
